@@ -19,7 +19,6 @@ export UNRAID_VERSION=Pro
 /lib64/ld-linux-x86-64.so.2 /boot/config/unraider
 
 #Start the Management Utility
-
 /usr/local/sbin/emhttp &
 
 4. Скопировать файлы hook.so, trial.key unrader - в папку /config на флешке
