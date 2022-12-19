@@ -22,6 +22,6 @@ export UNRAID_VERSION=Pro
 
 /usr/local/sbin/emhttp &
 
-4. Скопировать файлы hook.so, trial.key unrader - в папку /config на флешке
+4. Файлы из папки crack - hook.so, trial.key, unrader переместить в папку /config на флешке
 
 5. Наслаждаться
