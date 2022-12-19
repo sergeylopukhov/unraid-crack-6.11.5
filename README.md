@@ -1,6 +1,6 @@
 Уставнока UNRAID 6.11.5
 
-1. Установить на флешку unraid с помощью unraid usb creator с сайта unraid.net
+1. Установить на флешку unraid с помощью unraid usb creator
 
 2. Во время установки перписать GUID флешки
 
