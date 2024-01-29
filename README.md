@@ -1,4 +1,4 @@
-Уставнока UNRAID 6.11.5
+Уставнока UNRAID 6.12.6
 
 1. Установить на флешку unraid с помощью unraid usb creator
 
@@ -10,7 +10,7 @@
 
 export UNRAID_GUID=GUID вашей флешки
 
-export UNRAID_NAME=Имя вашего сервера на англ. яз.
+export UNRAID_NAME=Имя вашего сервера на английском языке
 
 export UNRAID_DATE=1654646400
 
