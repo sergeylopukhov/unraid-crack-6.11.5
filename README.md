@@ -1,4 +1,4 @@
-Уставнока UNRAID 6.12.6
+Уставнока UNRAID 6.11.5
 
 1. Установить на флешку unraid с помощью unraid usb creator
 
